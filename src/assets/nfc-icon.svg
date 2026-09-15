@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <circle cx="24" cy="24" r="22" fill="#EBF7F7" stroke="#0E8B8D" stroke-width="1.5" stroke-opacity="0.3"/>
+  <!-- 3 Contactless Waves -->
+  <path d="M19 18 C 21.5 21.5, 21.5 26.5, 19 30" stroke="#0E8B8D" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M24 14 C 28 19, 28 29, 24 34" stroke="#0E8B8D" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M29 10 C 34.5 17, 34.5 31, 29 38" stroke="#0E8B8D" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

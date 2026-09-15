@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14242A"/>
+      <stop offset="50%" stop-color="#0E3338"/>
+      <stop offset="100%" stop-color="#084E52"/>
+    </linearGradient>
+    <linearGradient id="goldTealBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12A8AB"/>
+      <stop offset="50%" stop-color="#40CED0"/>
+      <stop offset="100%" stop-color="#096769"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle with Depth -->
+  <circle cx="100" cy="100" r="94" fill="url(#avatarBg)" stroke="url(#goldTealBorder)" stroke-width="3"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="rgba(66, 183, 181, 0.25)" stroke-width="1.5" stroke-dasharray="4 3"/>
+  
+  <!-- Subtle Executive Monogram "MR" with Arabic Elegance -->
+  <g fill="#EAF8F8" opacity="0.95">
+    <!-- Stylized Modern M -->
+    <path d="M60,126 L60,74 L74,106 L88,74 L88,126 L79,126 L79,93 L74,104 L69,93 L69,126 Z"/>
+    <!-- Stylized Modern R -->
+    <path d="M102,74 L123,74 C132,74 138,79 138,87 C138,94 133,98 126,99 L141,126 L129,126 L116,101 L112,101 L112,126 L102,126 Z M112,92 L121,92 C125,92 128,90 128,87 C128,84 125,82 121,82 L112,82 Z"/>
+  </g>
+
+  <!-- Bilingual Arabic Monogram Accent at Bottom -->
+  <text x="100" y="152" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="14" font-weight="700" fill="#42B7B5" text-anchor="middle" letter-spacing="1">م . ر</text>
+  
+  <!-- Small Star / Geometric Accent at Top -->
+  <polygon points="100,56 102,61 107,62 103,66 104,71 100,68 96,71 97,66 93,62 98,61" fill="#42B7B5" opacity="0.8"/>
+</svg>

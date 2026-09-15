@@ -1,0 +1,16 @@
+{
+  "name": "Mohamed Rafi - WORKFORCE SAUDIA",
+  "short_name": "Mohamed Rafi",
+  "description": "Digital QR Visiting Card for Mohamed Rafi, Area Sales Manager at WORKFORCE SAUDIA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F4F7F7",
+  "theme_color": "#0F8B8D",
+  "icons": [
+    {
+      "src": "assets/profile.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
